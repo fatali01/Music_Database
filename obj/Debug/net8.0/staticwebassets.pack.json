@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\13179\\source\\repos\\MusicDatabase\\MusicDatabase\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MusicDatabase.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MusicDatabase.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\13179\\source\\repos\\MusicDatabase\\MusicDatabase\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\13179\\source\\repos\\MusicDatabase\\MusicDatabase\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\13179\\source\\repos\\MusicDatabase\\MusicDatabase\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\13179\\source\\repos\\MusicDatabase\\MusicDatabase\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MusicDatabase.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MusicDatabase.props",
+      "PackagePath": "build\\MusicDatabase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MusicDatabase.props",
+      "PackagePath": "buildMultiTargeting\\MusicDatabase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MusicDatabase.props",
+      "PackagePath": "buildTransitive\\MusicDatabase.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
